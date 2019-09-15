@@ -1,0 +1,27 @@
+
+<p style = "text-align: left"><br>This is an introductory course in quantitative finance designed based on undergraduate Quantitatiev Finance curriculum of University of London.
+</p>
+
+
+<div>
+{% for item in site.data.settings.homegriditems %}
+	<article class = "card-projects-view" >
+    	    <header class="card-header">
+  		   <p class= "card-suptitle">
+			{{item.mintitle}}
+		    </p>
+                    <h1 class="card-title">
+	               <a href = "{{ site.github.url }}/pages/{{ item.file }}" title="View more"> 
+{{item.title}} </a>
+	            </h1>
+             </header>
+	     <div class="card-body">
+	        <div class="card-prose">
+		  <p style = "text-align: left; line-height: 1rem"> 
+			{{item.prose}} 
+		  </p>
+	        </div>
+	     </div>
+	 </article>
+{% endfor %} 
+</div>

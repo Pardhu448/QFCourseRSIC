@@ -1,0 +1,28 @@
+---
+layout: projectpages
+title: Lectures
+---
+
+ <p style = "text-align: left"> 	
+  Following is the general pattern for covering each topic :
+  <ul>
+   <li>Saturday (3 hrs) : Introduce topic and cover major part of it. 
+	   <br> Assignment- prepare five questions each from text and slides, attempt three excercise questions from the topics covered.<br></li>
+    
+   <li>Wednesday (2 hrs): Continue with some more portion of topic and keep an hour for discussion of last week assignment.  </li>
+
+  </ul>	   
+ </p>
+
+<div id = "lecture-title">
+{% for post in site.categories.projects %}
+<h4>
+ <a href= "{{ site.github.url }}{{ post.url}}" >  {{post.title}}
+	 <p> </p>
+</a>
+</h4>
+
+{% endfor %}
+</div>
+
+
