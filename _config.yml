@@ -1,6 +1,6 @@
 # Site Settings
 
-disqus:              True
+disqus:              true
 
 paginate:            1
 
