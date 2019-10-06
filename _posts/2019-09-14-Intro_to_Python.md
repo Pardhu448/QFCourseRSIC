@@ -6,22 +6,19 @@ categories: projects
 caption: Review of Python
 tags: [Python, Software]
 ---
-  These topics on python introduce Jupyter Notebook and Python for quantitative research.
-<hr />
-### Notes
-- [Class Notes]({{site.github.url}}/pages/lecture_notes/chapter0.html)
-<hr />
-### Slides
-- [Lecture Slides]({{site.github.url}}/docs/ch1/econ_rsic_mumbai.pdf)
-- [Slides on Hypothesis testing from Dougherty]({{site.github.url}}/docs/ch1/dougherty5e_evaluating_hypothesis_tests.pdf)
-- [Slides on Confidence Intervals from Dougherty]({{site.github.url}}/docs/ch1/dougherty5e_hypothesis_tests_confidence_interval_approach.pdf)
-- [Slides on Evaluating Hypothesis tests from Dougherty]({{site.github.url}}/docs/ch1/dougherty5e_evaluating_hypothesis_tests.pdf)
+  These are topics to introduce Jupyter Notebook and Python for quantitative research. This is just to give a head start in using these tools for quantitative research.
+ <hr />
+
+### Study Material
+- [Introduction to Data Analysis using Python]({{site.github.url}}/docs/ch0/DataAnalysis_Python_for_WS.pdf)
+- [Basics of Python Ipython Notebook]({{site.github.url}}/docs/ch0/PythonBasics - I.ipynb)
+- [Basic Data Analysis using Python Ipython Notebook]({{site.github.url}}/docs/ch0/PythonBasics - Data Analysis.ipynb)
 <hr />
 ### Homework exercises from Textbook
-- Random Variables : R.1, R.9, R13
-- Population and Sampling : R15
-- Estimation : R18, R19
-- Hypothesis Testing : R23
+- [Lab0 - Ipython Notebook introducing Python]({{site.github.url}}/docs/ch0/lab_01.ipynb)
+- [School data to be used for homework]({{site.github.url}}/docs/ch0/school.csv)
 <hr />
-### End of Chapter Assignment
-- [Assignment 1]({{site.github.url}}/docs/ch1/assignment_1.pdf)
+### Additional Resources
+- [Foundations of Data Science - Computational Thinking with Python, UC Berkeley](https://www.edx.org/course/foundations-of-data-science-computational-thinking-with-python-0)
+- [The Foundation of Data Science by Ani Adhikari and John DeNero(please refer to python related chapters specifically)](https://www.inferentialthinking.com/chapters/intro)
+
