@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chapter 1: Financial Econometrics Concepts and Statistics Review"
+title: "Lecture 1: Financial Econometrics Concepts and Statistics Review"
 author: "partha"
 categories: projects
 caption: Review of Stats

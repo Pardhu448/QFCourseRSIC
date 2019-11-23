@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chapter 0: Introduction to Python for Quantitative Research"
+title: "Lecture 0: Introduction to Python for Quantitative Research"
 author: "partha"
 categories: projects
 caption: Review of Python
